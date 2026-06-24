@@ -1,0 +1,6 @@
+{
+  "name": "WBJEE Monitor",
+  "description": "An AI-powered monitoring system for the WBJEE website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
